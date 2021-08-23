@@ -1,0 +1,41 @@
+Study;Species;Trait ;Kingdom;V_A;V_DO;V_DI;Cov_a_d;H
+Shaw_et_al_1998_GENETICS;Nemophila menziesii;Height;Vegetal;16,29;1,83;1,65;-2,45;0
+Shaw_et_al_1998_GENETICS;Nemophila menziesii;Number of node;Vegetal;1,86;1,89;-0,07;0,05;0
+Shaw_et_al_1998_GENETICS;Nemophila menziesii;Petal length;Vegetal;0,33;0,17;0,51;0,02;0
+Shaw_et_al_1998_GENETICS;Nemophila menziesii;Petal width;Vegetal;0,25;0,14;0,52;-0,11;0
+Shaw_et_al_1998_GENETICS;Nemophila menziesii;Nb of days to flowering;Vegetal;17,25;8,8;43,1;-8,23;0
+Kelly_Arrathi_2003_Heredity;Mimulus guttatus;Corrola_width;Vegetal;0,024025;0;0,036518;-0,008649;0
+Kelly_Arrathi_2003_Heredity;Mimulus guttatus;Pistil length;Vegetal;0,424536;0,106134;0,35378;0,017689;0,106134
+Kelly_Arrathi_2003_Heredity;Mimulus guttatus;Herkogamy;Vegetal;0,3249;0,063175;0,243675;0,01805;0,063175
+Kelly_Arrathi_2003_Heredity;Mimulus guttatus;Flower length;Vegetal;0,755084;0,068644;0,823728;0,068644;0,068644
+Kelly_Arrathi_2003_Heredity;Mimulus guttatus;days to anthesis;Vegetal;0,0512;0,0224;0,0336;-0,016;0,0224
+Marriage_Kelly_2009_JEB;Mimulus guttatus;Corrola_width;Vegetal;2,7236277;0;3,0798828;-0,689526;0
+Marriage_Kelly_2009_JEB;Mimulus guttatus;Corrola_length;Vegetal;1,4898125;0;0,7865;0,0529375;0
+Marriage_Kelly_2009_JEB;Mimulus guttatus;Stigma_length;Vegetal;0,7217676;0,009522;0,9541044;-0,3104172;0,009522
+Marriage_Kelly_2009_JEB;Mimulus guttatus;Anther_length;Vegetal;0,357425;0;1,2636025;-0,20184;0
+Marriage_Kelly_2009_JEB;Mimulus guttatus;Herkogamy;Vegetal;0,4457882;0,081796;0,327184;-0,0122694;0,081796
+Marriage_Kelly_2009_JEB;Mimulus guttatus;days to flower;Vegetal;3,5307783;0;0,9040157;-1,2622106;0
+Marriage_Kelly_2009_JEB;Mimulus guttatus;viable pollen;Vegetal;0,008505;0,0103275;0;0,0002025;0,0103275
+Marriage_Kelly_2009_JEB;Mimulus guttatus;male fitness;Vegetal;0,0015884;0,0170392;0,0131404;0,0031768;0,0170392
+Marriage_Kelly_2009_JEB;Mimulus guttatus;flower number;Vegetal;0,0656073;0,2564649;0,0119286;0,019881;0,2564649
+Kelly_2003_Genetics;Mimulus guttatus;Corola_width;Vegetal;0,0048;0;0,0064;-0,0018;0
+Kelly_2003_Genetics;Mimulus guttatus;Pollen number;Vegetal;0,0152;0,0093;0,0332;-0,0053;0,0093
+Kelly_2003_Genetics;Mimulus guttatus;PSI;Vegetal;0,0088;0;0,0336;-0,0038;0
+Abney_et_al_2000;Homo sapiens;HDL;Animal;0,55;0;0;0;0
+Costa_e_silva_et_al_2010;Eucalyptus globulus;DHL;Vegetal;0,96;1,1;9,71;-1,24;1,1
+Edward_Lamkey_2002;Zea mays;Grain yield;Vegetal;0,26;0,32;0,85;-0,18;1,55
+Edward_Lamkey_2002;Zea mays;Grain moisture;Vegetal;5,2;1,7;2,9;-0,4;6,5
+Edward_Lamkey_2002;Zea mays;Ear height;Vegetal;149;44;147;-66;344
+Edward_Lamkey_2002;Zea mays;Plant height;Vegetal;208;64;194;-76;661
+Edward_Lamkey_2002;Zea mays;Days to mid-pollen;Vegetal;2,1;1;0,6;-0,3;6,4
+Edward_Lamkey_2002;Zea mays;Days to mild-silk;Vegetal;4,1;1;1,7;-1;21
+Hoeschelle_Volema_1993;Bos taurus;milk yield;Animal;1407420;276817;1821905;-3794393;276817
+Hoeschelle_Volema_1993;Bos taurus;fat yield;Animal;1972,2;273,2;2801,8;-5525,3;273,2
+Wardyn_et_al_2007;Zea mays;Grain yield;Vegetal;0,61;0,82;0,87;-0,27;6,21
+Wardyn_et_al_2007;Zea mays;Grain moisture;Vegetal;2,78;1,55;1,36;-0,52;14,91
+Wardyn_et_al_2007;Zea mays;Plant height;Vegetal;138;86;53;-19;729
+Wardyn_et_al_2007;Zea mays;Ear height;Vegetal;119;51;40;-29;407
+Wardyn_et_al_2007;Zea mays;Days to mid-pollen;Vegetal;1,41;0,82;0,64;0,06;2,25
+Wardyn_et_al_2007;Zea mays;Days to mild-silk;Vegetal;1,58;0,67;1,14;0,36;12,41
+Shaw_Williamson_1999;Ovis aries;78 weeks weight;Animal;29,9;0;30,3;-14,6;0
+Shaw_Williamson_1999;Ovis aries;78 weeks weight;Animal;20,2;5,2;-1,9;6,6;5,2
